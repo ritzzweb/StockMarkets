@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Ritz Trading</string>
+
+
+    //App Ads id
+    <string name="app_ads_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    //Add your Banner id here
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    //Add your Banner id here
+    <string name="interstial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="adsname">BANNER</string>
+
+    <dimen name="main01">250dp</dimen>
+    <dimen name="splash02">200dp</dimen>
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Register Now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rules1">1.  Always try to execute the trade as soon as possible.</string>
+    <string name="rules2">2.   If you are trading with multiple lots then please book 50% profit on first target for 1 lot and for other lots  use trailing sl from 1st target. Again if you are trading with 1 lot. Book 1st target and exit.</string>
+    <string name="rules3">3.  Always trade with given levels and do not forget to put stop loss in your trade. </string>
+    <string name="rules4">4.  Always use SL-M order for buy above and sell below trades after activation immediate Put Stop loss and  profit order. </string>
+    <string name="rules5">5.  Always book profit in decimals. Means buffer of 20 paisa.for example our target 9 so you can place your target order at 8.9</string>
+    <string name="rules6">6.  Always book profit in decimals. Means buffer of 10-20 paisa.</string>
+    <string name="rules8">8.  And one most important thing if i have given exit msg from any ongoing trade  means immediate exit with minor loss or profit no wait for Option again going up or down. </string>
+    <string name="rules7">7.   We always provide sell below and buy above. Please wait for position to get activated. Use 10 paisa buffer for activation of call. Do not trade according to any level. Wait for call to get activated.</string>
+    <string name="rules10">9.  If you will follow above mentioned Rules its my 100% guarantee your day will be in green with the minimum 3000-4000/+ profit.</string>
+
+    <string name="rules11">10.   10 th rule is very important. Read again.</string>
+
+    <string name="feedback">Feedback and support : ritzzweb@gmail.com
+
+.</string>
+
+    <string name="dis">DISCLAIMER</string>
+
+
+    <string name="disclaimer">Recommendations and Tips are for educational purpose And paper trading .Consult SEBI registered advisors/s before investing and trading in financial market .
+
+According to SEBI Guidelines: We gives Idea and hints , purely a viewpoint  to intraday traders . We do not give promise of any sure income / profits as intraday  trading can be risky too .You are aware of risk in trading using our recommendations/ Intraday Tips.
+
+The Targets expressed are based on Different  Technical analysis and does not guarantee success .We advises user to check with certificate expert before taking any investment decisions. Investment are subject to market risk. We are not responsible for losses</string>
+</resources>
+
+

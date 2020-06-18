@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ten">25dp</dimen>
+
+    <dimen name="content_main01">30dp</dimen>
+    <dimen name="content_main02">30dp</dimen>
+    <dimen name="content_main03">230dp</dimen>
+    <dimen name="content_amin05">40dp</dimen>
+    <dimen name="content_main06">40dp</dimen>
+    <dimen name="login05">10dp</dimen>
+    <dimen name="forget_01">20sp</dimen>
+
+
+</resources>

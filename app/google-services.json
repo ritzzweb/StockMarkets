@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "532110305097",
+    "firebase_url": "https://stockmarket-ef5df.firebaseio.com",
+    "project_id": "stockmarket-ef5df",
+    "storage_bucket": "stockmarket-ef5df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532110305097:android:ac7fb5d209f33058625c98",
+        "android_client_info": {
+          "package_name": "com.mann.stockmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532110305097-rf32l3sdhh5tf0a0so6r07nrbpc4mbii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mann.stockmarket",
+            "certificate_hash": "88fa592f91f2d85addf85c5dab6beeae62cac834"
+          }
+        },
+        {
+          "client_id": "532110305097-qcq21c0c68kt13bf85nv1inne6sgaqcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPQKayFJpLMcaWH28VSdOwBzPjac7tM4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532110305097-qcq21c0c68kt13bf85nv1inne6sgaqcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
